@@ -1,0 +1,84 @@
+The best technical questions focus on functionality, performance, and security, while the best non‑technical questions focus on clarity, ease of use, and overall experience. Below is a structured set you can use for a website questionnaire.
+
+---
+
+🧩 Technical Questionnaire (for developers, IT teams, or technically experienced testers)
+
+These questions help evaluate performance, architecture, security, and technical reliability. They are grounded in common usability and performance themes found in website survey research. 
+
+Performance & Reliability
+- How quickly did the website load on your device?
+- Did you encounter any broken links, missing assets, or error messages?
+- Were all interactive elements (forms, buttons, menus) responsive?
+- Did the website behave consistently across different browsers?
+
+Navigation & Architecture
+- Was the site structure logical and easy to follow?
+- Did the URL structure make sense and reflect the content hierarchy?
+- Were redirects, canonical tags, and metadata implemented correctly?
+
+Security & Compliance
+- Did you notice any security warnings (mixed content, certificate issues)?
+- Does the website follow secure practices (HTTPS, secure forms)?
+- Are cookies and privacy notices clear and compliant with regulations?
+
+Mobile & Cross‑Device Compatibility
+- Did the website render correctly on mobile/tablet?
+- Were touch targets (buttons, menus) appropriately sized? 
+- Did any layout elements break on smaller screens?
+
+Content & Data Integrity
+- Was dynamic content (APIs, databases) loading correctly?
+- Did search, filters, or sorting features work as expected?
+- Were images and videos optimized and loading without delay?
+
+---
+
+🌿 Non‑Technical Questionnaire (for general users)
+
+These questions focus on usability, design, clarity, and overall satisfaction, reflecting common patterns in usability surveys. 
+
+General Experience
+- What was your first impression when you entered the website? 
+- What did you like most about the website?
+- What frustrated you the most?
+
+Ease of Use
+- Were you able to find what you were looking for without help? 
+- How easy was it to navigate the website?
+- Did you ever feel “lost” while browsing?
+
+Design & Visual Appeal
+- Do you find the colors, layout, and typography appealing?
+- Is the content easy to read and understand at a glance? 
+- Does the design feel modern and trustworthy?
+
+Content Quality
+- Was the information clear, accurate, and helpful?
+- Did you find all the information you expected?
+- Was anything confusing or unclear?
+
+Mobile Experience
+- Was the mobile layout easy to use?
+- Were buttons and menus easy to tap? 
+
+Satisfaction & Suggestions
+- How likely are you to return to this website?
+- What would you improve if you could change one thing?
+- Do you have any additional feedback?
+
+---
+
+📌 Quick Comparison Table
+
+| Category | Technical Questions | Non‑Technical Questions |
+|---------|---------------------|--------------------------|
+| Focus | Performance, security, architecture | Usability, clarity, satisfaction |
+| Audience | Developers, QA, IT | General users, customers |
+| Goal | Identify system issues | Improve user experience |
+| Examples | Load speed, errors, mobile rendering | Ease of navigation, design appeal |
+
+---
+
+🔍 One follow‑up question for you
+Do you want these questions turned into a ready‑to‑use survey form (Google Forms, Typeform, or PDF)?
