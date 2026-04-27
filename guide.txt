@@ -1,0 +1,26 @@
+Prep for 3A
+Important!
+Task 3a – What you should be doing
+Before you build anything:
+Revisit Task 1.
+Pull out and record client needs, project aims, user stories and KPIs.
+Decide how you will measure whether your web app meets those needs and KPIs.
+Remember the purpose of this is to give you something to talk about in task 3B!
+Then split the feedback work into three clear tasks:
+Non‑technical user questionnaire (20 questions - 10 people to survey)
+Technical user questionnaire (20 questions - 10 people to survey)
+User observations (Plan the user journey through the app - get at least 3 full observations and record them)
+Next:
+Plan each of the three tasks properly (what you are measuring, why, and how).
+You must not use AI at any point.
+You already have lots of usable information in your GitHub – use it.
+Build your questionnaires using Google Forms or Microsoft Forms.
+Record the use of your app. 
+Collect the responses - use each other as technical users.
+We will provide other students for the observation activity. We will aim to do this on Friday. They can also act as the non-technical users if necessary.
+Evidence is critical:
+Screenshot everything.
+Save all responses, observation notes, and exports.
+Put all data and screenshots in your folder.
+You will not have internet access in Task 3b, so if it isn’t saved, it doesn’t exist.
+Stay within supervised conditions and focus on gathering useful, measurable feedback that can inform future development.
